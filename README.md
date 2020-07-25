@@ -1,7 +1,10 @@
 # modelling-infectious-disease
 Introduction :
+
 The set of codes are model infectious disease spreading using compartmental models and are extensions for the simple SIR model.
+
 Contents :
+
 1. SIR model
 2. Modelling population turnover and vaccination
 3. Modelling waning immunity
