@@ -1,7 +1,7 @@
 # modelling-infectious-disease
 Introduction :
 
-The set of codes are used model infectious disease spreading using compartmental models and are extensions for the  SIR model.
+The set of codes are used model infectious disease spreading using compartmental models and are extensions of the  SIR model.
 
 Contents :
 
