@@ -15,5 +15,4 @@ Contents :
 8. Modelling a case study
 9. Stochastic modelling
 10. Age structured modelling
-
 11.vector-borne disease (VBD) model
