@@ -11,8 +11,8 @@ Contents :
 4. Modelling treatment
 5. A separate compartment for vaccination
 6. Manual calibration of an SIR model
-7.Curve fitting
+7. Curve fitting
 8. Modelling a case study
 9. Stochastic modelling
 10. Age structured modelling
-11.vector-borne disease (VBD) model
+11. vector-borne disease (VBD) model
